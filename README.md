@@ -5,3 +5,4 @@ For this project I will use predictive analytics to effectively predict bankrupt
 Previously, I was going to use predictive analysis to make a prediction model regarding company bankruptcy that would accurately predict whether a company can go bankrupt or not. Unfortunately, the data from the model was very imbalanced with only 3% of the instances being bankruptcies. This new dataset contains 10,000 entires and 12 columns as well ass categorical and numerical variabeles. There are no missng values from the data. I used numerical summarization, and the correlation matrix to give a better representation of the relationship between each column.
 
 For this project i did further analysis of the churn data and made three models which consisted of KKN, random forest, and decision trees. 
+This new submission contains the poster for the presentation regarding  customer bank churn.
