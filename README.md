@@ -6,3 +6,5 @@ Previously, I was going to use predictive analysis to make a prediction model re
 
 For this project i did further analysis of the churn data and made three models which consisted of KKN, random forest, and decision trees. 
 This new submission contains the poster for the presentation regarding  customer bank churn.
+
+For the final preliminary model,I have further cleaned the data using one hot coding for the gender and country columns as well as adding the Random Forest algorithm. I have also added heatmaps for both numerical and categorical data, as well as the heatmap accuracy. Finally, i made a bar chart to show the accuracy scores of each algorithm. 
