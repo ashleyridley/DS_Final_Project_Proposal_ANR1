@@ -39,9 +39,6 @@ This notebook continues the process of the previous notebooks with the custome c
 - random forest had the highest accuracy with an 84%, decision trees 80%, and KKN with 74%
 - for future work i will use SMOTE to oversample the data to make the data balanced
 
-
-
-
-
-
+# DS_Final_Project_Slide_Deck_ANR (final presentation)
+This powerpoint contains information from the final project including the final results after using the random forest algorithm. All three models were proven successful with an accuracy of 75% and above.
 For the final preliminary model,I have further cleaned the data using one hot coding for the gender and country columns as well as adding the Random Forest algorithm. I have also added heatmaps for both numerical and categorical data, as well as the heatmap accuracy. Finally, i made a bar chart to show the accuracy scores of each algorithm. 
